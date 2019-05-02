@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="nama_tv">Nama:</string>
+    <string name="desc_tv">Deskripsi:</string>
+    <string name="image_tv">Image:</string>
+    <string name="btn_tv">Select Image</string>
+    <string name="time_tv">Time:</string>
+</resources>
